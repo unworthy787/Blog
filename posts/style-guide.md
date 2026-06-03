@@ -115,7 +115,6 @@ This is your living style guide. Every component, with the exact HTML to use in 
     q = 1 - p
     return (b * p - q) / b
 
-# 55% win rate, 1.5R
 f = kelly(0.55, 1.5)
 half_f = f / 2
 
